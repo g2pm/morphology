@@ -1,1 +1,1 @@
-conda install -c conda-forge opencv
+pip install opencv
